@@ -1,8 +1,10 @@
-⋆ ☾⋆⁺₊⋆ case comment generator ☾ ⏾ ⋆⁺₊
+<div align="center">
+
+# ⋆ ☾⋆⁺₊⋆ case comment generator ☾ ⏾ ⋆⁺₊
 
 ☾⋆ a python project that generates standardized comments based on user-provided information and predefined categories.
 
-☾⋆⁺₊ 'bout the project
+☾⋆⁺₊ 'bout the project ☾⋆⁺₊
 
 ☾⋆ this project automates the generation of structured comments based on user input. It allows users to provide relevant information, select a category, and generate consistent text according to predefined rules.
 
@@ -10,50 +12,50 @@
 
 ⁺₊ DISCLAIMER: this project has been used and approved by other companies before but every information shared in main.py has been modified for public view. All authorizations for public display have been gathered and sensible data has been adapted for the general public post/commit.
 
-☾⋆⁺₊ features
+☾⋆⁺₊ features ☾⋆⁺₊
 
-- date validation using python-dateutil library
+ date validation using python-dateutil library
 
-- input validation for numerical values
+ input validation for numerical values
 
-- category-based comment generation
+ category-based comment generation
 
-- automatic singular and plural adjustments
+ automatic singular and plural adjustments
 
-- multiple comments in one session
+ multiple comments in one session
 
-- standardized text output
+ standardized text output
 
-☾⋆⁺₊ techs
+☾⋆⁺₊ techs ☾⋆⁺₊
 
-- python
+ python
 
-- python-dateutil library 
+ python-dateutil library 
 
-☾⋆⁺₊ how to run
+☾⋆⁺₊ how to run ☾⋆⁺₊
 
-1. install Python 3.
+ install Python 3.
 
-2. install the required dependency:
+ install the required dependency:
 python -m pip install -r requirements.txt
 
-3. run the program:
+ run the program:
 python main.py
 
-☾⋆⁺₊ categories
+☾⋆⁺₊ categories ☾⋆⁺₊
 
 ☾⋆ the program supports five predefined categories:
 
-- new
+ new
 
-- recurring
+ recurring
 
-- reopen
+ reopen
 
-- under Analysis
+ under analysis
 
-- analysis Completed
+ analysis completed
 
-☾⋆⁺₊ author
+☾⋆⁺₊ author ☾⋆⁺₊
 
 Maria Fernanda Ribeiro / created on 10.25.2026
