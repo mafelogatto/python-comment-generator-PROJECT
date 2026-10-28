@@ -58,4 +58,4 @@ python main.py
 
 ☾⋆⁺₊ author ☾⋆⁺₊
 
-Maria Fernanda Ribeiro / created on 10.25.2026
+Maria Fernanda Ribeiro / language: eng - made on 10.25.2026
