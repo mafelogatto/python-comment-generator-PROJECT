@@ -4,8 +4,6 @@
 
 ☾⋆ a python project that generates standardized comments based on user-provided information and predefined categories.
 
-☾⋆ automation and time optimization
-
 ☾⋆⁺₊ 'bout the project ☾⋆⁺₊
 
 ☾⋆ this project automates the generation of structured comments based on user input. It allows users to provide relevant information, select a category, and generate consistent text according to predefined rules.
