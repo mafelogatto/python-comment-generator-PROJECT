@@ -4,13 +4,15 @@
 
 ☾⋆ a python project that generates standardized comments based on user-provided information and predefined categories.
 
+☾⋆ automation and time optimization
+
 ☾⋆⁺₊ 'bout the project ☾⋆⁺₊
 
 ☾⋆ this project automates the generation of structured comments based on user input. It allows users to provide relevant information, select a category, and generate consistent text according to predefined rules.
 
 ☾⋆ the project was developed to practice Python programming, input validation, functions, conditional statements, loops, and date parsing.
 
-⁺₊ DISCLAIMER: this project has been used and approved by other companies before but every information shared in main.py has been modified for public view. All authorizations for public display have been gathered and sensible data has been adapted for the general public post/commit.
+⁺₊ DISCLAIMER: this project has been used and approved by other companies before under automation and time optimization value - but every information shared in main.py has been modified for public view. All authorizations for public display have been gathered and sensible data has been adapted for the general public post/commit.
 
 ☾⋆⁺₊ features ☾⋆⁺₊
 
